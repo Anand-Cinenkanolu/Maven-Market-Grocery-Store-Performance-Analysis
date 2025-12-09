@@ -70,7 +70,8 @@ Displays:
 - Target = last month's revenue + 5%  
 - Indicates whether revenue is above or below target  
 
-![Over view]()
+> Topline Performance View
+![Topline Performance](https://github.com/Anand-Cinenkanolu/Maven-Market-Grocery-Store-Performance-Analysis/blob/main/Maven%20Market%20Files/Overview%20of%20the%20dashboard.png)
 
 ---
 
@@ -101,12 +102,12 @@ A clean relational star-schema model was built.
 - All foreign keys hidden from Report View  
 - Proper formatting for currency, dates, and locations  
 
-> Insert your data model image  
+> Data Modeling  
 
-![Data Modeling]()
+![Data Modeling](https://github.com/Anand-Cinenkanolu/Maven-Market-Grocery-Store-Performance-Analysis/blob/main/Maven%20Market%20Files/Data%20modeling.png)
 
 > **Power BI Live Dashboard Link:**  
-![Link]()
+[Link](https://app.powerbi.com/view?r=eyJrIjoiNzMyYmM1YzUtM2FjZS00NTdhLTljNTUtMzMxMzA4MDZkZTkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 📣 Contact
